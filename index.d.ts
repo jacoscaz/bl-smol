@@ -1,4 +1,4 @@
-import { Duplex } from "readable-stream";
+import { Duplex } from "node:stream";
 import {
   BufferList as BL,
   BufferListConstructor,

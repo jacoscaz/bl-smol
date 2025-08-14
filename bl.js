@@ -1,6 +1,6 @@
 'use strict'
 
-const DuplexStream = require('readable-stream').Duplex
+const DuplexStream = require('node:stream').Duplex
 const inherits = require('inherits')
 const BufferList = require('./BufferList')
 

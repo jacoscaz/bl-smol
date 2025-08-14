@@ -2,7 +2,6 @@
 
 const tape = require('tape')
 const { BufferList, BufferListStream } = require('../')
-const { Buffer } = require('buffer')
 
 tape('convert from BufferList to BufferListStream', (t) => {
   const data = Buffer.from(`TEST-${Date.now()}`)

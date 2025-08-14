@@ -2,7 +2,6 @@
 
 const tape = require('tape')
 const BufferList = require('../')
-const { Buffer } = require('buffer')
 
 tape('indexOf single byte needle', (t) => {
   const bl = new BufferList(['abcdefg', 'abcdefg', '12345'])

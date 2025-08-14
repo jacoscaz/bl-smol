@@ -7,7 +7,6 @@ const fs = require('fs')
 const path = require('path')
 const os = require('os')
 const BufferListStream = require('../')
-const { Buffer } = require('buffer')
 
 /**
  * This typedef allows us to add _bufs to the API without declaring it publicly on types.
