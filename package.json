@@ -13,13 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rvagg/bl.git"
+    "url": "https://github.com/jacoscaz/bl-smol.git"
   },
-  "homepage": "https://github.com/rvagg/bl",
+  "homepage": "https://github.com/jacoscaz/bl-smol",
   "authors": [
     "Rod Vagg <rod@vagg.org> (https://github.com/rvagg)",
     "Matteo Collina <matteo.collina@gmail.com> (https://github.com/mcollina)",
-    "Jarett Cruger <jcrugzz@gmail.com> (https://github.com/jcrugzz)"
+    "Jarett Cruger <jcrugzz@gmail.com> (https://github.com/jcrugzz)",
+    "Jacopo Scazzosi <jacopo@scazzosi.com> (https://github.com/jacoscaz)"
   ],
   "keywords": [
     "buffer",
@@ -27,9 +28,6 @@
     "stream",
     "awesomesauce"
   ],
-  "dependencies": {
-    "inherits": "^2.0.4"
-  },
   "devDependencies": {
     "@types/node": "^24.2.1",
     "faucet": "~0.0.1",
