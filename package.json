@@ -1,6 +1,6 @@
 {
   "name": "@jacoscaz/bl-smol",
-  "version": "6.1.2",
+  "version": "6.1.2-alpha.0",
   "description": "Buffer List: collect buffers and access with a standard readable Buffer interface, streamable too!",
   "license": "MIT",
   "main": "bl.js",
