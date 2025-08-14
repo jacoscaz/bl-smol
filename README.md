@@ -1,4 +1,4 @@
-# bl-smol
+# @jacoscaz/bl-smol
 
 This is a _smol_ version of the [bl][0] package by [Rod Vagg][1] which removes
 all runtime dependencies by replacing them with native Node.js alternatives:
