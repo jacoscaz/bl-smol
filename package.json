@@ -11,6 +11,9 @@
     "test:types": "tsc --target esnext --moduleResolution node --allowJs --noEmit --skipLibCheck test/test.js",
     "build": "true"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jacoscaz/bl-smol.git"
