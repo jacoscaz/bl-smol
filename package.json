@@ -1,5 +1,5 @@
 {
-  "name": "bl",
+  "name": "@jacoscaz/bl-smol",
   "version": "6.1.2",
   "description": "Buffer List: collect buffers and access with a standard readable Buffer interface, streamable too!",
   "license": "MIT",
