@@ -1,6 +1,6 @@
 'use strict'
 
-const { Buffer } = require('buffer')
+const { Buffer } = require('node:buffer')
 const symbol = Symbol.for('BufferList')
 
 function BufferList (buf) {

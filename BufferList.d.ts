@@ -1,3 +1,5 @@
+import { Buffer } from 'node:buffer'
+
 export type BufferListAcceptedTypes =
   | Buffer
   | BufferList

@@ -1,4 +1,5 @@
 import { Duplex } from "node:stream";
+import { Buffer } from "node:buffer";
 import {
   BufferList as BL,
   BufferListConstructor,
